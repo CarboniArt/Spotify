@@ -17,9 +17,9 @@ Projeto de clone da interface do Spotify, desenvolvido com HTML, CSS e Bootstrap
 ## 📸 Telas
 
 ### Página Inicial
-![Página Inicial](Spotify/Assets/prints/inicial.png)
+![Página Inicial](Assets/prints/inicial.png)
 
 ### Login
-![Login](Spotify/Assets/prints/login.png)
+![Login](Assets/prints/login.png)
 
 
